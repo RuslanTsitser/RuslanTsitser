@@ -8,4 +8,6 @@
  - BloC, GetX, Riverpod
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuslanTsitser)]
+![Ruslan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuslanTsitser)
+<br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuslanTsitser&layout=compact)
