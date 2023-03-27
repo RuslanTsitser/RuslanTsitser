@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Ruslan
 
 ## I'm a flutter developer
- - Experience 1 year including commercial
+ - Commercial experience 3 year
  - Dart, Flutter SDK
  - Experience with Rest API, JSON, XML
  - OOP, SOLID
